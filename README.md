@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+I'm Irina!
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
@@ -16,10 +16,7 @@ I'm Marton, a 20 years old web developer from Hungary.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 Python, MySQL, Math, Flask, Djungo
 + a lot more :D
 
 ## Contact
