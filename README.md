@@ -7,11 +7,9 @@ I'm Irina!
 Now I'm studying with SENATOROVAI to get hard and fundamental knowledge in Math, Python, SQL, Numpy, Pandas and another interesting and nessusary skills. The study process with professioner Ruslan Senatorov is so hard, but very exciting. I believe and hope, I can achieve my purpose with him!
 
 ## Skills
-- 👨‍💻 Python, MySQL, Math, Numpy, Pandas, Flask, Djungo
+- 👨‍💻 Python, MySQL, Math, Numpy, Pandas, Flask, Django
 + a lot more :D
 
 ## Contact
-- Здесь можно добавить:
-- 1). мой сайт-резюме.
-- 2). Страничка в соц.сетях и т.д.
+My website-resum is in creating process.
 
