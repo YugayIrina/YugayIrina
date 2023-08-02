@@ -4,6 +4,7 @@
 
 ## Hey! 👋
 I'm Irina!
+Now I'm studying with SENATOROVAI to achieve hard and fundamental knowledge in Math, Python, SQL, Numpy, Pandas and another interesting and nessusary skills.
 
 ## Skills
 - 👨‍💻 Python, MySQL, Math, Numpy, Pandas, Flask, Djungo
